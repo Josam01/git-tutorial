@@ -3,3 +3,6 @@
 "washed attack on titaan"
 "searched about git hub"
 "practice code"
+"chat with my bestie"
+"eat dinner"
+"watch avatar"

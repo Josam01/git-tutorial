@@ -6,3 +6,4 @@
 "chat with my bestie"
 "eat dinner"
 "watch avatar"
+"MTN sucks"
